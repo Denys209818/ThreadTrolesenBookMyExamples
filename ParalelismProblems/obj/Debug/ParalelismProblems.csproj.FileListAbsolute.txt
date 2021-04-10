@@ -1,0 +1,6 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ParalelismProblems\bin\Debug\ParalelismProblems.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ParalelismProblems\bin\Debug\ParalelismProblems.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ParalelismProblems\bin\Debug\ParalelismProblems.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ParalelismProblems\obj\Debug\ParalelismProblems.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ParalelismProblems\obj\Debug\ParalelismProblems.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ParalelismProblems\obj\Debug\ParalelismProblems.pdb

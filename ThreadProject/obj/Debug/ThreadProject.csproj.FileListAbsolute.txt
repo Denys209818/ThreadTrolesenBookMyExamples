@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\bin\Debug\ThreadProject.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\bin\Debug\ThreadProject.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\bin\Debug\ThreadProject.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\obj\Debug\ThreadProject.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\obj\Debug\ThreadProject.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\obj\Debug\ThreadProject.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProject\obj\Debug\ThreadProject.pdb

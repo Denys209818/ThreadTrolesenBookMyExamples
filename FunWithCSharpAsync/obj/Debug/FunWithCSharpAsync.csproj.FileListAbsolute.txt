@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.pdb

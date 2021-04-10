@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\bin\Debug\TimerProject.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\bin\Debug\TimerProject.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\bin\Debug\TimerProject.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\obj\Debug\TimerProject.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\obj\Debug\TimerProject.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\obj\Debug\TimerProject.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\TimerProject\obj\Debug\TimerProject.pdb

@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\bin\Debug\PLINQDataProcessingWithCancellation.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\bin\Debug\PLINQDataProcessingWithCancellation.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\bin\Debug\PLINQDataProcessingWithCancellation.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\PLINQDataProcessingWithCancellation\obj\Debug\PLINQDataProcessingWithCancellation.pdb

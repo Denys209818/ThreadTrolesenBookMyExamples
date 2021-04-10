@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\bin\Debug\ThreadProjectWithSpecialsClasses.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\bin\Debug\ThreadProjectWithSpecialsClasses.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\bin\Debug\ThreadProjectWithSpecialsClasses.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\obj\Debug\ThreadProjectWithSpecialsClasses.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\obj\Debug\ThreadProjectWithSpecialsClasses.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\obj\Debug\ThreadProjectWithSpecialsClasses.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadProjectWithSpecialsClasses\obj\Debug\ThreadProjectWithSpecialsClasses.csprojAssemblyReference.cache

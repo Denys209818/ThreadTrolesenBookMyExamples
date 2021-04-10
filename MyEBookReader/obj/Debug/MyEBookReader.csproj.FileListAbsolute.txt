@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\bin\Debug\MyEBookReader.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\bin\Debug\MyEBookReader.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\bin\Debug\MyEBookReader.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\obj\Debug\MyEBookReader.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\obj\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\obj\Debug\MyEBookReader.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\MyEBookReader\obj\Debug\MyEBookReader.pdb

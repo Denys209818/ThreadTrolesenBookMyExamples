@@ -1,0 +1,6 @@
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadPoolProject\bin\Debug\ThreadPoolProject.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadPoolProject\bin\Debug\ThreadPoolProject.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadPoolProject\bin\Debug\ThreadPoolProject.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.exe
+C:\Users\Denis\Desktop\WPF HomeWork\ThreadProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.pdb
